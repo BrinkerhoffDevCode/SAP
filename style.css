@@ -5,6 +5,13 @@
     color: black ;
     background-color: gainsboro;
 }
+.Bellow{
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    color: black ;
+    background-color: yellow;
+}
 
 .tabela{
     object-fit: cover;
@@ -31,4 +38,12 @@
     display: flex;
 
 
+}
+
+.Lansya1{
+   
+}
+
+.Lansya2{
+    display: flex;
 }
